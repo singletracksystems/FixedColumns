@@ -1,0 +1,23 @@
+{
+  "name": "fixedcolumns",
+  "version": "3.2.6",
+  "description": "When making use of DataTables' x-axis scrolling feature (`scrollX`), you may wish to fix the left or right most columns in place. This extension for DataTables provides exactly this option (for non-scrolling tables, please use the FixedHeader extension, which can fix the header and footer).",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singletracksystems/FixedColumns.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/singletracksystems/FixedColumns/issues"
+  },
+  "homepage": "https://github.com/singletracksystems/FixedColumns#readme"
+}
